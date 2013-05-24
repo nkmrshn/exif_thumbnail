@@ -6,6 +6,8 @@ EXIF Thumbnail
 実行例
 ------
 
+これは、ruby 1.9.3で実行した例です。
+
     $ irb
     > require 'exif_thumbnail'
     => true 
