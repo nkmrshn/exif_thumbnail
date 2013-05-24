@@ -1,7 +1,7 @@
 EXIF Thumbnail
 ==============
 
-指定したEXIFファイルから、サムネイルを取得するライブラリ[libthumb](https://github.com/nkmrshn/libthumb)のRuby拡張ライブラリです。
+指定したEXIFファイルから、サムネイルを取得するライブラリ([libthumb](https://github.com/nkmrshn/libthumb))のRuby拡張ライブラリです。
 
 実行例
 ------
